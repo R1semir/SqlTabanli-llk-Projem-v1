@@ -1,0 +1,17 @@
+C:\Users\legen\source\repos\Proje_sql_dbo\Proje_sql_dbo\bin\Debug\Proje_sql_dbo.exe.config
+C:\Users\legen\source\repos\Proje_sql_dbo\Proje_sql_dbo\bin\Debug\Proje_sql_dbo.exe
+C:\Users\legen\source\repos\Proje_sql_dbo\Proje_sql_dbo\bin\Debug\Proje_sql_dbo.pdb
+C:\Users\legen\source\repos\Proje_sql_dbo\Proje_sql_dbo\obj\Debug\Proje_sql_dbo.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\Proje_sql_dbo\Proje_sql_dbo\obj\Debug\Proje_sql_dbo.Form1.resources
+C:\Users\legen\source\repos\Proje_sql_dbo\Proje_sql_dbo\obj\Debug\Proje_sql_dbo.Properties.Resources.resources
+C:\Users\legen\source\repos\Proje_sql_dbo\Proje_sql_dbo\obj\Debug\Proje_sql_dbo.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\Proje_sql_dbo\Proje_sql_dbo\obj\Debug\Proje_sql_dbo.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\Proje_sql_dbo\Proje_sql_dbo\obj\Debug\Proje_sql_dbo.exe
+C:\Users\legen\source\repos\Proje_sql_dbo\Proje_sql_dbo\obj\Debug\Proje_sql_dbo.pdb
+C:\Users\legen\source\repos\Proje_sql_dbo\Proje_sql_dbo\obj\Debug\Proje_sql_dbo.FrmKategoriler.resources
+C:\Users\legen\source\repos\Proje_sql_dbo\Proje_sql_dbo\obj\Debug\Proje_sql_dbo.FrmMusteri.resources
+C:\Users\legen\source\repos\Proje_sql_dbo\Proje_sql_dbo\obj\Debug\Proje_sql_dbo.FrmUrunler.resources
+C:\Users\legen\source\repos\Proje_sql_dbo\Proje_sql_dbo\obj\Debug\Proje_sql_dbo.FrmPersonel.resources
+C:\Users\legen\source\repos\Proje_sql_dbo\Proje_sql_dbo\obj\Debug\Proje_sql_dbo.FrmKasa.resources
+C:\Users\legen\source\repos\Proje_sql_dbo\Proje_sql_dbo\obj\Debug\Proje_sql_dbo.Frmistatistikler.resources
+C:\Users\legen\source\repos\Proje_sql_dbo\Proje_sql_dbo\obj\Debug\Proje_sql_dbo.frmislemler.resources
